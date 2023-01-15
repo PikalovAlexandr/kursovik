@@ -1,0 +1,3 @@
+/home/alexandr/kursovik/Snake_con_1/build/CMakeFiles/Snake_con_1.dir
+/home/alexandr/kursovik/Snake_con_1/build/CMakeFiles/edit_cache.dir
+/home/alexandr/kursovik/Snake_con_1/build/CMakeFiles/rebuild_cache.dir

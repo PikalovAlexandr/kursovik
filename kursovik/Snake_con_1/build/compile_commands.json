@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/alexandr/kursovik/Snake_con_1/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/Snake_con_1.dir/main.cpp.o -c /home/alexandr/kursovik/Snake_con_1/main.cpp",
+  "file": "/home/alexandr/kursovik/Snake_con_1/main.cpp"
+},
+{
+  "directory": "/home/alexandr/kursovik/Snake_con_1/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/Snake_con_1.dir/snake.cpp.o -c /home/alexandr/kursovik/Snake_con_1/snake.cpp",
+  "file": "/home/alexandr/kursovik/Snake_con_1/snake.cpp"
+},
+{
+  "directory": "/home/alexandr/kursovik/Snake_con_1/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/Snake_con_1.dir/game.cpp.o -c /home/alexandr/kursovik/Snake_con_1/game.cpp",
+  "file": "/home/alexandr/kursovik/Snake_con_1/game.cpp"
+}
+]
